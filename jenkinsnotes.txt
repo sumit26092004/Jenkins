@@ -1,0 +1,7 @@
+################################# Jenkins ######################################333
+
+Jenking - means that will help in CI/CD 
+		CI - continuos Integeration 
+		CD - Continuos Deployement
+
+
