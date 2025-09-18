@@ -4,4 +4,4 @@ Jenking - means that will help in CI/CD
 		CI - continuos Integeration 
 		CD - Continuos Deployement
 
-
+ajj Kuch nhi pdha
