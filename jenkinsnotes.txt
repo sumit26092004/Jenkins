@@ -5,3 +5,5 @@ Jenking - means that will help in CI/CD
 		CD - Continuos Deployement
 
 ajj Kuch nhi pdha
+COAST Guard Exam tha isiliye nhi pdha
+
